@@ -57,3 +57,5 @@ Admin:
 
 
 ## Player API
+
+The Player API relies on a text-based protocol.  A client sends a command followed by zero or more attributes, then a newline (ASCII 10 -- a \n).
